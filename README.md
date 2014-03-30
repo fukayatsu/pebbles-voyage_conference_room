@@ -2,6 +2,8 @@
 
 Floor map of VoyageGroup 8F
 
+Ruby port of [Acme::VOYAGEGROUP::ConferenceRoom - search.cpan.org](http://search.cpan.org/~monmon/Acme-VOYAGEGROUP-ConferenceRoom-0.01/lib/Acme/VOYAGEGROUP/ConferenceRoom.pm)
+
 ## Installation
 
 Add this line to your application's Gemfile:
