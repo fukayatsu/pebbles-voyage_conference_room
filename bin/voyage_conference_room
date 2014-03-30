@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+require 'pebbles/voyage_conference_room/cli'
+Pebbles::VoyageConferenceRoom::CLI.start

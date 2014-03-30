@@ -1,4 +1,5 @@
 require "pebbles/voyage_conference_room/version"
+require "pebbles/voyage_conference_room/floor"
 
 module Pebbles
   module VoyageConferenceRoom

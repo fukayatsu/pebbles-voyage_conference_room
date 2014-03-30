@@ -1,0 +1,110 @@
+
+floor_map: |
+  .---------------.--.------------------.
+  |aaaaaaaaaaaaaaa|  |ppp|    |qq|  |rrr|
+  |aaaaaaaaaaaaaaa|  '---.--.--.----.---|
+  |aaaaaaaaaaaaaaa|      |dd|ee|ffff|ggg|
+  |aaaaaaaaaaaaaaa|---.  |dd|--|ffff|ggg|
+  |aaaaaaaaaaaaaaa|bbb|  '--'  '----|ggg|
+  |aaaaaaaaaaaaaaa|---'-.          .'---|
+  |aaaaaaaaaaaaaaa|ccccc|          |hhhh|
+  '---------------'-----'.--.--.  .'----|
+                         |iiiii|  |jjjjj|
+                         |--.--|  |--.--|
+                         |kk|ll|  |mm|nn|
+                         '--'--'  '--'--|
+                                        |
+                           .------------|
+                           |oooooooooooo|
+                           |oooooooooooo|
+                           '------------'
+
+rooms:
+  pangea:
+    code: a
+    aliases:
+    - パンゲア
+    - ぱんげあ
+  ultima:
+    code: b
+    aliases:
+    - ウルティマ
+    - うるてぃま
+  zipang:
+    code: c
+    aliases:
+    - パシフィス
+    - じぱんぐ
+  megallanica:
+    code: d
+    aliases:
+    - メガラニカ
+    - めがらにか
+  mu:
+    code: e
+    aliases:
+    - ムー
+    - むー
+  atlantis:
+    code: f
+    aliases:
+    - アトランティス
+    - あとらんてぃす
+  pacifis:
+    code: g
+    aliases:
+    - パシフィス
+    - ぱしふぃす
+  lemuria:
+    code: h
+    aliases:
+    - レムリア
+    - れむりあ
+  africa:
+    code: i
+    aliases:
+    - アフリカ
+    - あふりか
+  eurasia:
+    code: j
+    aliases:
+    - ユーラシア
+    - ゆーらしあ
+  antarctica:
+    code: k
+    aliases:
+    - アンタークティカ
+    - あんたーくてぃか
+  australlia:
+    code: l
+    aliases:
+    - オーストラリア
+    - おーすとらりあ
+  south_america:
+    code: m
+    aliases:
+    - サウスアメリカ
+    - さうすあめりか
+  north_america:
+    code: n
+    aliases:
+    - ノースアメリカ
+    - のーすあめりか
+  ajito:
+    code: o
+    aliases:
+    - アジト
+    - あじと
+  wc_men:
+    code: p
+    aliases:
+    - 男子トイレ
+  amasia:
+    code: q
+    aliases:
+    - アメイジア
+    - あめいじあ
+  wc_women:
+    code: r
+    aliases:
+    - 女子トイレ
