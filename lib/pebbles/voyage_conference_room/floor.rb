@@ -21,7 +21,7 @@ module Pebbles
 
         map = floor_map
         if options["with_code"]
-          selected_rooms.map{ |k,v| v["code"] }.each{ |code| map.gsub!(code, "/".color(:red)) }
+          selected_rooms.map{ |k,v| v["code"] }.each{ |code| map.gsub!(code, code.color(:red)) }
         else
           selected_rooms.map{ |k,v| v["code"] }.each{ |code| map.gsub!(code, '/') }
           map.gsub!(/[a-z]/, ' ')
